@@ -8,6 +8,10 @@ Support for the [D Programming Language](http://dlang.org/) within IntelliJ IDEA
 | Master | [![Build Status](https://travis-ci.org/intellij-dlanguage/intellij-dlanguage.svg?branch=master)](https://travis-ci.org/intellij-dlanguage/intellij-dlanguage) |
 | Develop | [![Build Status](https://travis-ci.org/intellij-dlanguage/intellij-dlanguage.svg?branch=develop)](https://travis-ci.org/intellij-dlanguage/intellij-dlanguage) |
 
+
+## Supported versions of CLion
+None as of yet
+
 ## Supported versions of IntelliJ
 
 | Plugin Version | IntelliJ Versions | release notes |
