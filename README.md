@@ -1,7 +1,7 @@
 Intellij D Language
 ===================
 
-Support for the [D Programming Language](http://dlang.org/) within IntelliJ IDEA
+Support for the [D Programming Language](http://dlang.org/) within IntelliJ IDEA and potentially CLion
 
 | Branch | Status |
 | :--- | :--- |
